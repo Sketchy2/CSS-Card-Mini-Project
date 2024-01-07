@@ -79,6 +79,10 @@ h3 {
     margin: 0px;
 }
 
+h3:hover {
+    color: #f5d04e;
+}
+
 .footer {
     font-weight: bold;
     display: flex;
